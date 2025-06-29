@@ -3,6 +3,8 @@
 Lissa is a macOS application for generating and visualizing Lissajous figures. 
 It allows you to explore the properties of these mathematical curves by interactively changing their defining parameters, both visually and through audio sine wave generation.
 
+Download it [here](https://github.com/nicolagulmini/Lissa/raw/refs/heads/main/Lissa.zip).
+
 ## Features
 
 - Dynamic visualization of Lissajous curves.
