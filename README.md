@@ -6,6 +6,10 @@ It allows you to explore the properties of these mathematical curves by interact
 
 Download it [here](https://github.com/nicolagulmini/Lissa/raw/refs/heads/main/Lissa.zip).
 
+
+https://github.com/user-attachments/assets/656ff5fe-3ba8-440a-ab19-dbefa678c312
+
+
 ## Features
 
 - Dynamic visualization of Lissajous curves.
