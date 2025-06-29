@@ -1,7 +1,10 @@
+<img align="left" width="100" height="100" src="[https://picsum.photos/100/100](https://github.com/user-attachments/assets/8cef3df7-2b61-42ce-8e20-dbcda51321fa)">
+
 # Lissa
 
 Lissa is a macOS application for generating and visualizing Lissajous figures. 
 It allows you to explore the properties of these mathematical curves by interactively changing their defining parameters, both visually and through audio sine wave generation.
+
 
 Download it [here](https://github.com/nicolagulmini/Lissa/raw/refs/heads/main/Lissa.zip).
 
